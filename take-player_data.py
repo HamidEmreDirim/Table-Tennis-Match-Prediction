@@ -27,7 +27,6 @@ women_single_data = data["rankings"][2]
 
 men_attributes = get_attributes(men_single_data)
 women_attributes = get_attributes(women_single_data)
-
 print(men_attributes)
 
 
