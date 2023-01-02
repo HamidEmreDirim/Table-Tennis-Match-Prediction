@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2495ffcb-d822-4b8d-8672-667fbd16d84a" name="Changes" comment=".">
+    <list default="true" id="2495ffcb-d822-4b8d-8672-667fbd16d84a" name="Changes" comment="Made over 5 percent accuracy improvement in our machine learning model by getting better player information.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Projects/ML_Titanic/titanic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Small Projects/ML_Titanic/titanic.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Table Tennis Match Predictor/data_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Table Tennis Match Predictor/main.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Table Tennis Match Predictor/get-match-results_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Table Tennis Match Predictor/get-match-results_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Table Tennis Match Predictor/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table Tennis Match Predictor/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Table Tennis Match Predictor/main.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table Tennis Match Predictor/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Table Tennis Match Predictor/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Table Tennis Match Predictor/match_predictor.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Table Tennis Match Predictor/match_predictor.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Table Tennis Match Predictor/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Table Tennis Match Predictor/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672396684294</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Made over 5 percent accuracy improvement in our machine learning model by getting better player information.">
+      <created>1672597779868</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672597779868</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +126,7 @@
     <MESSAGE value="getting match data with selenium" />
     <MESSAGE value="Data has been collected and successfully converted to pandas dataframe object." />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="Made over 5 percent accuracy improvement in our machine learning model by getting better player information." />
+    <option name="LAST_COMMIT_MESSAGE" value="Made over 5 percent accuracy improvement in our machine learning model by getting better player information." />
   </component>
 </project>
