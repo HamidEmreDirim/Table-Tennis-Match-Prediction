@@ -8,7 +8,9 @@ A machine learning and data science project that can predict the result of a pro
 
 - Preprocess data: The data I had was useless on its own. I had to make cleaning and formatting changes to the data. I used Pandas library for this.
 
-- Select a machine learning model: Based on the nature of my data, I had 3 machine learning algorithms to choose from: linear regression, logistic regression, or a decision tree. After exhaustive research, I have decided to use logistic regression. It works by finding the best linear combination of the input features (e.g., players' attributes) to predict the output class.
+- Exploratory data analysis: Using visualizations and statistical analyses to explore the data and identify trends or patterns.
+
+- Select a machine learning model: Since I didn't have more than 10,000 pieces of data, I could not use the neural networks. When I tried it, I only got about 49% accuracy, so I went back to machine learning algorithms. For the nature of my data, I had 3 machine learning algorithms to choose from: linear regression, logistic regression, or a decision tree. After exhaustive research, I have decided to use logistic regression. It works by finding the best linear combination of the input features (e.g., players' attributes) to predict the output class.
 
 - Train the model: It was the simplest part to train the model. All I had to do was make some imports and put the data in them.  
 
