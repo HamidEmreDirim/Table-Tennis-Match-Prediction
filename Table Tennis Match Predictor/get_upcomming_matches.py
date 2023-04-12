@@ -1,16 +1,10 @@
 import requests
-from bs4 import BeautifulSoup
-import os
+import json
 
-url = "https://worldtabletennis.com/events_calendar"
-reponse = requests.get(url)
 
-if reponse.ok:
-	soup = BeautifulSoup(reponse.text)
-	title = str(soup.find("title"))
 
-	title = title.replace("<title>", "")
-	title = title.replace("</title>", "")
-	print("The title is : " + str(title))
 
-os.system("pause")
+
+r = requests.get("https://zylalabs.com/api/1068/table+tennis+live+scores+api/940/fetch+live+table+tennis+matches")
+j=r.json()
+print(j)
