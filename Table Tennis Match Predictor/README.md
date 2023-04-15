@@ -24,7 +24,8 @@ A machine learning and data science project that can predict the result of a pro
 
 - Deploying the model: When I was finished with the model, I saved it as **match_predictor.pickle**. And also included a function called **predictMatch** at the end of **main.ipynb** file. With this function its pretty simple to make prediction. All needs to be done is put a two professional table tennis name (for now only works with top 1000 men's name) and get your prediction.
 
-- To install all of the required packages to this environment, simply run:
+
+To install all of the required packages to this environment, simply run:
 
 ```
 pip install -r requirements.txt
