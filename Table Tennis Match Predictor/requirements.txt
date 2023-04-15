@@ -1,0 +1,8 @@
+dash>=1.0.2
+dash-daq>=0.1.7
+gunicorn>=19.9.0
+numpy>=1.16.2
+pandas>=0.24.2
+jupyter_dash >= 0.4.2
+matplotlib >= 3.6.2
+selenium == 4.7.2
