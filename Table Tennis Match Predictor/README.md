@@ -16,8 +16,8 @@ A machine learning and data science project that can predict the result of a pro
 - Train the model: It was the simplest part to train the model. All I had to do was make some imports and put the data in them.  
 
 - Model Performance:
-<p align="center">
-  <img src="https://github.com/HamidEmreDirim/porfolio_projects/blob/main/Table%20Tennis%20Match%20Predictor/result.jpg" width="350" title="hover text">
+<p align="left">
+  <img src="https://github.com/HamidEmreDirim/porfolio_projects/blob/main/Table%20Tennis%20Match%20Predictor/result.jpg" width="500" title="hover text">
 </p>
 
 
