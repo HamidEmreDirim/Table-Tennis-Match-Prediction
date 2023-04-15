@@ -17,10 +17,9 @@ A machine learning and data science project that can predict the result of a pro
 
 - Model Performance:
 <p align="center">
-  <img src="[your_relative_path_here](https://github.com/HamidEmreDirim/porfolio_projects/blob/main/Table%20Tennis%20Match%20Predictor/result.jpg)" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="https://github.com/HamidEmreDirim/porfolio_projects/blob/main/Table%20Tennis%20Match%20Predictor/result.jpg" width="350" title="hover text">
 </p>
-![alt text](https://github.com/HamidEmreDirim/porfolio_projects/blob/main/Table%20Tennis%20Match%20Predictor/result.jpg)
+
 
 
 - Deploy the model: When I was finished with the model, I saved it as **match_predictor.pickle**. And also included a function called **predictMatch** at the end of **main.ipynb** file. With this function its pretty simple to make prediction. All needs to be done is put a two professional table tennis name (for now only works with top 1000 men's name) and get your prediction.
